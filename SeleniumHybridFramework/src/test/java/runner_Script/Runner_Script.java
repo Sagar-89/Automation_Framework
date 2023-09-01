@@ -7,6 +7,8 @@ import generic_Script.Base_Test;
 import generic_Script.DDT_Script;
 import pom_Script.Pom_Script;
 
+//3rd change
+//we are using either ddt or data provider
 public class Runner_Script extends Base_Test
 {
 	@Test(dataProvider = "test")
