@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import generic_Script.Base_Page_Pom;
 
+//2nd change
 public class Pom_Script extends Base_Page_Pom
 {
 	@FindBy (name="username")
